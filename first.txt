@@ -8,3 +8,4 @@
 
 ５．git rm
 
+６．git status
