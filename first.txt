@@ -6,3 +6,5 @@
 
 ４．git commit
 
+５．git rm
+
